@@ -1,19 +1,18 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    introTitle: 'Babi ơi!',
+    introDesc: `Em ngại nói quá
+    Nhưng mà có chuyện này
+    Em muốn nói với babi á`,
+    btnIntro: 'Chuyện gì vậy nè',
+    title: 'Không biết là babi có thể...😙',
+    desc: 'Bắn momo 10k cho em để em săn sales trà sữa chứ em nghèo quá huhu',
+    btnYes: 'Oke, 5s anh bắn liền cho nè <3',
+    btnNo: 'Không, anh mua xe hết tiền rồi :((',
+    question:'Sao anh hết tiền rồi mà vẫn gửi tiền cho em?',
+    btnReply: 'Gửi cho em <3',
+    reply: 'Tại anh yêu em thayme luôn <33333333',
+    mess: 'Vậy lần sau cứ bắn tiền cho em nhiều nhiều nha hihi :D :D',
+    messDesc: 'Giỡn thôi, đừng có bắn nha bạn, tui iu bạn gất nhìu <3333.',
+    btnAccept: 'Oke :)',
+    messLink: '/https://www.facebook.com/thanhlan3000'
+    }
